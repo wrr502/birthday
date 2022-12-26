@@ -3,7 +3,7 @@
 
 2.点击to.html启动
 
-3.账号：123  密码：123  可以在jquery-1.8.3.min.js里修改
+3.账号：123  密码：123  可以在[jquery-1.8.3.min.js](https://github.com/celebrate-birthday/birthday-19/blob/b849047beee87601695649db1109f44ed9658045/Secret/js/jquery-1.8.4.min.js#L4)里修改
 
 4.indexl.js是第二页index Hi XXX的js，可以在里面修改文字
 
