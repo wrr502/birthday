@@ -5,7 +5,7 @@
 
 3.账号：123  密码：123  可以在[jquery-1.8.3.min.js](https://github.com/celebrate-birthday/birthday-19/blob/b849047beee87601695649db1109f44ed9658045/Secret/js/jquery-1.8.4.min.js#L4)里修改
 
-4.indexl.js是第二页index Hi XXX的js，可以在里面修改文字
+4.[indexl.js](https://github.com/celebrate-birthday/birthday-19/blob/1e50402fdb9c2e99c7dba9efe5351a47d7eefbb9/Secret/js/indexl.js#L13)是第二页index Hi XXX的js，可以在里面修改文字
 
 5.img.js里面也有输出文字，shadow页
 
