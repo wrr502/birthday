@@ -7,7 +7,7 @@
 
 4.[indexl.js](https://github.com/celebrate-birthday/birthday-19/blob/1e50402fdb9c2e99c7dba9efe5351a47d7eefbb9/Secret/js/indexl.js#L13)是第二页index Hi XXX的js，可以在里面修改文字
 
-5.img.js里面也有输出文字，shadow页
+5.[img.js](https://github.com/celebrate-birthday/birthday-19/blob/19f501f6b7f9d5b555e4868c9e08d0520d1f247f/Secret/js/img.js#L16)里面也有输出文字，shadow页
 
 6.四首音乐，分别对应1 BirthdayCake、2 Say、3 index、4 Shadow
 
